@@ -1,0 +1,4 @@
+WAI ARIA - Web Accessibility Initatiative - Accessibility Rich Internet Applications
+
+Använd Aria-attribut t.ex. aria-expanded för att beskriva tillsåtnd för en screen reader. 
+- Aria-expanded kan vara true eller false beroende på om en accordion är öppen eller stängd. 
